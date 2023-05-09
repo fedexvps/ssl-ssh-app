@@ -1,0 +1,56 @@
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8537b24/LOGO-SE-AL-COLOMBIA.jpg" group-title="COLOMBIA", SENAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="COLOMBIA", AVIVAMIENTO TV
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest" group-title="COLOMBIA", CALI TV OPCION 2
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg" group-title="COLOMBIA", Canal 2
+https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/120_Canal_Institucional.png" group-title="COLOMBIA", CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1260414838741876738/b_DeaX7e.jpg" group-title="COLOMBIA", Canal Visión Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/126_CTV.jpg" group-title="COLOMBIA", CTV
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/multicanal.jpg?itok=gMLVDInf" group-title="COLOMBIA", MULTICANAL
+https://ssh101.bozztv.com/ssh101/KIOCApP/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/711d250f609782c10c5afef0d9628632.png" group-title="COLOMBIA", Noticiero 90 Minutos
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-412AERiYMxI/YKQhU6rdR0I/AAAAAAABCYU/dIiDILugmbA8oKWQjiJuQCUlFD44BctuwCK8BGAsYHg/s512/2021-05-18.jpg" group-title="COLOMBIA", Oasis TV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-53_HtUb3jnc/XzgiULPdOxI/AAAAAAAA4Yg/u_kS47iatBgohPcQ3uOpO8Rz7r5RMBARwCK8BGAsYHg/s0/2020-08-15.png" group-title="COLOMBIA", Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/130_TDI.jpg" group-title="COLOMBIA", TDI
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-g_dUHOwBNAM/YE1OKFJDbwI/AAAAAAABAnM/iSrlgpU84ho1Sh6R_8hKrN9DaJFg043NQCK8BGAsYHg/s512/2021-03-13.png"  group-title="COLOMBIA", Tele Familia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/804_Tele_Pasto.jpg" group-title="COLOMBIA", TELE PASTO
+https://byecableiptv.com/telepasto/Telepasto.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DZadlN6RVe8/YE1PBh6hqPI/AAAAAAABAnc/ehjxHbBo-eMdLgTa3nzFJPjHq6kpWZgLgCK8BGAsYHg/s512/2021-03-13.png" group-title="COLOMBIA", TV Gracia
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/181_TV_Gracia.png" group-title="COLOMBIA", TV Gracia
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/860_TV_Penol.png" group-title="COLOMBIA", TV PEÑOL
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/139_UAO_Play.jpg" group-title="COLOMBIA", UAO PLAY
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/10c25d2283903f2f06871459f16b8391.png" group-title="COLOMBIA", Veo TV
+https://movil.ejeserver.com/live/veotv.m3u8

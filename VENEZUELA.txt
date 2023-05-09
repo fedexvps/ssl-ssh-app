@@ -1,0 +1,69 @@
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/927_Anzoategui_TV.png" group-title="VENEZUELA ", Anzoategui TV 
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1486365719872815104/IaU7LzJq_400x400.jpg" group-title="VENEZUELA ", Bit Radio TV 
+https://vcp.myplaytv.com/petrotv/petrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/519_Canal_i.png" group-title="VENEZUELA ", Canal i
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/ede0172917569eae7de0f05b84cfde92.png" group-title="VENEZUELA ", Cantina TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/144_Catatumbo_TV.png" group-title="VENEZUELA ", Catatumbo TV
+https://cloud.streamingconnect.tv/hls/catatumbotv/catatumbotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/809204eb3ad39d8c9429bbfd4358884d.png" group-title="VENEZUELA ", EXC TV 
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1326_Globovision.png" group-title="VENEZUELA ", GLOBOVISION
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/929_Italianissimo.png" group-title="VENEZUELA ", Italianissimo
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1325_MDA_TV.png" group-title="VENEZUELA ", MDA TV
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/928_MovieFE.png" group-title="VENEZUELA ", MovieFE
+https://vcp.myplaytv.com:443/moviefe/ngrp:moviefe_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/925_Nubeh_TV.png" group-title="VENEZUELA ", NUBEH TV
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/926_Oxigeno_Network.png" group-title="VENEZUELA ", OXIGENO
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/924_Panavision.png" group-title="VENEZUELA ", PANAVISION
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png" group-title="VENEZUELA ", Promar TV
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1486365719872815104/IaU7LzJq_400x400.jpg" group-title="VENEZUELA ", RADIO BIT
+https://vcp.myplaytv.com/sunacrip/sunacrip/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-9oxffsN2uIM/Xxzv8htqa6I/AAAAAAAA3a0/1hQeXtqRNrc1bIvJuaDBn6PGaMoPNGaWACK8BGAsYHg/s0/2020-07-25.png" group-title="VENEZUELA ", Reforma TV
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/84325e40ce60d16037b02586850d1c30.png" group-title="VENEZUELA ", ShowVen TV
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/6ce00e14d50fd87b8553b9c96201de3d.png" group-title="VENEZUELA ", Telesol
+https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/499_Telesur.png" group-title="VENEZUELA ", Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1327_TRT.png" group-title="VENEZUELA ", TRT
+https://vcp3.myplaytv.com/trt/trt/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/691fbd76ac69d53faecf3480cecd4826.png" group-title="VENEZUELA ", TRV 
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/518_TVS_Maracay.png" group-title="VENEZUELA ", TVS MARACAY
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1470875652257628173/6ZbC2qFo_400x400.jpg" group-title="VENEZUELA ",Vale TV
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+

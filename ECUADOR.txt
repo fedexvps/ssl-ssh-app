@@ -1,0 +1,21 @@
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLVKLqH/asomavision.png" group-title="ECUADOR", ASOMAVISION
+https://asomatv.duckdns.org/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GM2dStS/ecotel.jpg" group-title="ECUADOR", ECOTEL
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png" group-title="ECUADOR", Educa TV
+https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1300490998494253062/1lW1Zvuv_400x400.jpg" group-title="ECUADOR", El Sol Radio y Television
+http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1047832405523030016/PbAkxwut_400x400.jpg" group-title="ECUADOR", Multicanal Catamayo
+https://multicanal.streamseguro.com/hls/streaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1011616959509794816/N-BNm8R8_400x400.jpg" group-title="ECUADOR", Radio Impacto 2
+https://sv72.ecuaradiotv.net/impacto2tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1070_Sono_Onda_TV.png" group-title="ECUADOR", Sono Onda TV 
+https://mediacpstreamchile.com:1936/sonoonda/sonoonda/playlist.m3u8
+

@@ -1,0 +1,56 @@
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jtEW1DzeL6k/XagIpOTPiwI/AAAAAAAAAeU/tUWSLZXkXLIch45s-tLX_mbg3h92DfkzgCLcBGAsYHQ/s1600/boliviatv.png" group-title="BOLIVIA", BOLIVIA TV 2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1466844873584168972/OXzWzwpa_400x400.jpg" group-title="BOLIVIA", ERBOL HD 
+https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1611030398955298817/wa4yOQuL_400x400.jpg" group-title="BOLIVIA", RTP LA PAZ
+https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/689831249914007552/csDAsUON_400x400.jpg" group-title="BOLIVIA", TVU LP HD
+https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1529286626995757058/tOL4McT__400x400.jpg" group-title="BOLIVIA", SEO TV KIDS HD
+https://live.seo.tv.bo/live/2SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1529286626995757058/tOL4McT__400x400.jpg" group-title="BOLIVIA", SEO TELENOVELAS HD
+https://live.seo.tv.bo/live/3SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1529286626995757058/tOL4McT__400x400.jpg" group-title="BOLIVIA", SEO PELICULAS HD
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1529286626995757058/tOL4McT__400x400.jpg" group-title="BOLIVIA", SEO 5 TV
+https://live.seo.tv.bo/live/5SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/2dgVrybmslFzKoq7Y1PDvdLl1AuHkUySeq2admEQ6cAz515j0JeeW9atjbvsg11tusVWWobPWMQ=s88-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", VIRGEN DE COPACABANA HD
+https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA", F10 HD
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="BOLIVIA", DELTA TV HD
+https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRkDoVVYhWAgJqK6uEyxaXSd08P2JRyA-DKvXLE_5r76Q4EmeGAjVf_1Mf88G16QRTSZo&usqp=CAU" group-title="BOLIVIA", TV HD TROPICAL
+https://cloud3.streaminglivehd.com:1936/8068/8068/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA", F10 CHAIRITO MUSICAL HD
+https://video.live.com.bo:3253/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://ceacomtv.com/wp-content/uploads/2020/12/Logo-CEACOM-01-e1608759749137.png" group-title="BOLIVIA", CEACOM HD
+https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://deportetotal.com.bo/wp-content/uploads/2018/09/dt-horizontal-logo.png" group-title="BOLIVIA", DTV Play Deporte Total
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/patboliviahd/picture?width=200&height=200" group-title="BOLIVIA", Red Pat Bolivia
+https://master.tucableip.com/pat/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wBDtKyxJylDf9zGpInH-85vidL1gvvl0clXukW6QWwOwckzeWzvdQFRJB9hvzLPX804=s48-rw" group-title="BOLIVIA", Canal 38 de Viacha
+https://hls.servidor.stream/storage/canal38viacha.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FTVHD.png/200px-FTVHD.png" group-title="BOLIVIA", Facetas Televisión
+https://master.tucableip.com/ftv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Fj1NPSYWIAAL6MU?format=png&name=small" group-title="BOLIVIA", Delta Instituto TV
+https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
